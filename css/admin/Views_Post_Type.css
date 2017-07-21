@@ -1,0 +1,52 @@
+#wpcontent {
+    background-color: #F1F1F1;
+}
+
+#fvb > div.inside {
+    display: flex;
+}
+
+#titlediv #title-prompt-text {
+    font-size: 1em;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.fvb_draghandle {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: url(../../images/mdm-cross-hair.png);
+    cursor: move;
+    margin: 4px 0 0;
+}
+
+.fvb-loading {
+    position: absolute;
+    left: 4px;
+    top: 13px;
+}
+
+/*delete row*/
+.fvb_remove_repeatable {
+    margin: 8px 0 0 0;
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.fvb_remove_repeatable:active, .fvb_remove_repeatable:hover {
+    background-position: -10px 0 !important
+}
+
+/*sortable*/
+.ui-state-highlight {
+    height: 3.2em;
+    background-color: #ffffff !important;
+    margin-bottom: 1.25em;
+}

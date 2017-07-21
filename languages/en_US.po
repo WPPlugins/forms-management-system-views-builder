@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FMS Views Builder\n"
+"POT-Creation-Date: 2015-05-10 03:59+0300\n"
+"PO-Revision-Date: 2015-05-10 03:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/admin/FVB_Settings.php:45
+msgid "FMS Views Builder Settings"
+msgstr ""
+
+#: ../classes/admin/FVB_Settings.php:60
+msgid "Save All Changes"
+msgstr ""
+
+#: ../classes/admin/FVB_Settings.php:64
+msgid "Saving ..."
+msgstr ""
+
+#: ../classes/admin/FVB_Settings.php:67
+msgid "Saved successfully!"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:38
+#: ../classes/admin/FVB_View_Post_Type.php:40
+msgid "Views"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:39
+msgid "View"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:41
+msgid "Parent View:"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:42
+msgid "View View"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:43
+msgid "Add New View"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:44
+msgid "Add New"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:45
+msgid "Edit View"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:46
+msgid "Update View"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:47
+msgid "Search View"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:48
+msgid "Not found"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:49
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:146
+msgid "Form"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:156
+msgid "Leave it empty to disable the title."
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:162
+msgid "You can inject your own class in the wrapper div."
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:165
+msgid "Restrict Custom Fields Access?"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:184
+msgid "Fields"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:412
+msgid "Move"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:413
+msgid "Field Label"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:414
+msgid "Meta Key"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:415
+msgid "New Label"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:416
+msgid "Remove"
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:428
+#: ../classes/admin/FVB_View_Post_Type.php:458
+msgid "Leave it empty for no label."
+msgstr ""
+
+#: ../classes/admin/FVB_View_Post_Type.php:469
+msgid ""
+"* Please note if you changed the form meta keys later, you must modify this "
+"view in order to reflect that change."
+msgstr ""
+
+#: ../fms-views-builder.php:41
+#, php-format
+msgid ""
+"FMS Views Builder is enabled but not effective. It requires <a href=\"%s"
+"\">FMS</a> in order to work."
+msgstr ""
+
+#: ../fms-views-builder.php:49
+#, php-format
+msgid ""
+"FMS Views Builder is enabled but not effective. It is not compatible with  "
+"<a href=\"%s\">FMS</a> versions prior 1.9."
+msgstr ""
+
+#: ../includes/fvb-functions.php:19
+msgid "None"
+msgstr ""
+
+#: ../includes/fvb-functions.php:33
+msgid "Select Form"
+msgstr ""
